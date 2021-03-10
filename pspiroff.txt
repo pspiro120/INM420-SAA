@@ -1,1 +1,1 @@
-This is other-branch, it's pretty cool
+This is the main, it's pretty cool
